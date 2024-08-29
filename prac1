@@ -1,0 +1,4 @@
+git clone https://git.codecrafters.io/3501355bc8426202 codecrafters-git-cpp
+cd codecrafters-git-cpp
+git commit --allow-empty -m 'test'
+git push origin master
